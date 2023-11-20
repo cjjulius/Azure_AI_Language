@@ -8,9 +8,9 @@ def main():
 
     try:
         # Get Configuration Settings
-        cog_key = '43853f17d83f477abd68488c04dd9ed6'
-        cog_region = 'westus'
-        translator_endpoint = 'https://api.cognitive.microsofttranslator.com'
+        cog_key = 'KEYHERE'
+        cog_region = 'regionhere'
+        translator_endpoint = 'ENDPOINTHERE'
 
         # Analyze each text file in the reviews folder
         reviews_folder = 'reviews'
